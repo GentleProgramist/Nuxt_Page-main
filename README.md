@@ -22,7 +22,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-2021.12.02.
+2021.12.08.
 
 ## Test Coverage
 | File                    | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s |
